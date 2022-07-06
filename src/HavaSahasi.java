@@ -5,5 +5,8 @@ public class HavaSahasi {
 
         System.out.println("Yeni deneme");
         System.out.println("ahmet mecit");
+
+
+        System.out.println("ahmet mecit 2");
     }
 }
