@@ -4,5 +4,6 @@ public class HavaSahasi {
         System.out.println("İlk görev bağlantıları kur!");
 
         System.out.println("Yeni deneme");
+        System.out.println("ahmet mecit");
     }
 }
